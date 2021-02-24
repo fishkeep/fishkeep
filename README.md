@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=birdkeeping)
+
+**当前页面访问次数统计** <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/birdkeeping/hits.svg"></a>

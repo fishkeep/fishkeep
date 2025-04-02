@@ -1,5 +1,6 @@
 ### Hi there 👋
-![header.png](https://api.lyiqk.cn/bing)
+<!-- ![header.png](https://api.lyiqk.cn/bing) -->
+![header.png](https://api.dujin.org/bing/1920.php)
 <!--
 **birdkeeping/birdkeeping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
